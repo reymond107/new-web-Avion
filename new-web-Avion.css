@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     margin: 0;
     padding: 0; 
@@ -114,3 +115,8 @@ section {
     }
   }
   
+=======
+* {
+    box-sizing: border-box;
+}
+>>>>>>> 3a4ae8198157202dc8c1578f84836189eac92c84
